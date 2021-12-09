@@ -1,0 +1,58 @@
+---
+title: "idea"
+author: "JJayes"
+date: "09/12/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Purpose
+
+Write up ideas from discussion with Kerstin and Jakob.
+
+### Summary
+
+### Paper I want to write
+
+### Data that I will need for this
+
+For the questions about individual responses to a shock, for instance the introduction of a railway line, we need to have annonymised data linked over time.
+
+### Next steps
+
+There is a lot of scholarship looking at movement of people and the effect that this has had on demographic outcomes. For example [Karlskrona paper on neighbour being tertiary educated](), 
+
+What do we want to focus on? 
+
+- Local place based things. 
+- 
+
+### Write up of Jakob's ideas
+
+The mantalslängder begin to include a place of work on the forms relatively early. Perhaps in the 1920s.
+
+Taking pictures of these books - think carefully becaue the size is large - sometimes it goes over two full pages... really big.
+
+Have a look at Martin Önnefors thesis - check his sources. He has a digitized version of mantalslängder from soemthing like Rotmans arkivet. Highly frequent. Digitized.
+
+I should focus on firms so that I don't overlap with other researchers in the area.
+
+Instead of using aktibolag dataset, I should have a look at the industrial firms. These have things like horsepower used as some quantification of amount of power used and the number of workers.
+
+Have a look for Jakob's paper on uppsala's economic geography with Martin. His thesis was on Restaurants in Stockholm. Have a look at this too.
+
+They make use of address calendars - has every firms location. Can do the same for Stockholm. 
+
+Interesting thing to look at would the transportation technology change. How do:
+- Trams then
+- Cars and trains (Jakob mentioned a list of all car owners in Uppsala)
+- Subway
+
+We can think about where the line goes - how do people who live along the tram or subway line respond to it - do they begin to work further away??
+
+
+
